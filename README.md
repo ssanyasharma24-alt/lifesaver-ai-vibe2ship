@@ -1,4 +1,4 @@
-# Rozgar Setu AI - Vibe2Ship 2024
+# Rozgar Setu AI - Vibe2Ship 2026
 
 The ultimate last-minute job preparation suite for Indian students and fresh graduates.
 
